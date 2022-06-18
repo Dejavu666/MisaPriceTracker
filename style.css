@@ -44,7 +44,7 @@ div {
 }
 
 table {
-  background: #1d1919;
+  background: #1b191d;
   color: rgb(255, 255, 255);
   text-align: right;
   margin: 0 auto;
@@ -57,7 +57,7 @@ tr {
 }
 
 th {
-  background: #ff0000;
+  background: #1b191d;
   line-height: 25px;
 }
 
